@@ -30,7 +30,7 @@ Lighthouse Accessibility test resultaat.
 
 Schrijf een een samenvatting van de test bevindingen.
 
-
+De startpagina van NS heeft een logische volgorde, dit heb ik getest met de screenreader. De screenreader neemt alle kopjes door een geeft aan als er een link of een list aanwezig is. Om door een list te gaan krijg je de optie om met control+option+spatie of Enter- Space een list door te nemen en te selecteren.
 
 
 
