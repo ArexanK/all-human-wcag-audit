@@ -3,10 +3,10 @@
 
 # WCAG Audit 
 
-https://user-images.githubusercontent.com/94745953/197495392-f7a01695-9acd-4594-b9b3-53b6293a0d76.jpg![image](https://user-images.githubusercontent.com/94745953/200547969-0230b8d6-273f-4ee4-8fc3-b5eacab54378.png)
+![images](https://user-images.githubusercontent.com/94745953/200548088-f254976f-7c01-41ea-83d1-a9785d057a49.jpg)
 
 
-## Titel Website
+## NS
 
 Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
