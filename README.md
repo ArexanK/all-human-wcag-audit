@@ -3,6 +3,7 @@
 
 # WCAG Audit NS
 
+![197495392-f7a01695-9acd-4594-b9b3-53b6293a0d76](https://user-images.githubusercontent.com/94745953/200551600-18e7fad6-8a9e-4d51-9673-25d40431c513.jpeg)
 
 
 
@@ -10,7 +11,7 @@
 
 Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
-NS website getest via lighthouse accesibility
+NS website getest via lighthouse accesibility en 10 items manually gecheckt.
 
 <img width="1341" alt="Screenshot 2022-10-25 at 13 10 42" src="https://user-images.githubusercontent.com/94745953/200548478-9267a9d6-5e26-4b15-8142-3de14197be13.png">
 
